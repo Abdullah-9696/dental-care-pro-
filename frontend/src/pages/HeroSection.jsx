@@ -5,6 +5,7 @@ const HeroSection = () => {
   return (
     <section className="hero">
       <div className="hero-content">
+        
         <h1>Advance Your Dental Career</h1>
         <p>Access world-class courses and resources designed by leading dental professionals.</p>
         <div className="hero-buttons">
